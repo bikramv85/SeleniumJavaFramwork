@@ -1,0 +1,5 @@
+[INFO ] 2021-07-14 16:06:03.781 [main] Log4jdemo - Information Message
+[ERROR] 2021-07-14 16:06:03.843 [main] Log4jdemo - ErrorMessage
+[WARN ] 2021-07-14 16:06:03.844 [main] Log4jdemo - warnMessage
+[FATAL] 2021-07-14 16:06:03.844 [main] Log4jdemo - fatalMessage
+[TRACE] 2021-07-14 16:06:03.845 [main] Log4jdemo - Trace Message

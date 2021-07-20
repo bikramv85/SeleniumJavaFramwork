@@ -1,0 +1,25 @@
+[INFO ] 2021-07-07 18:43:44.441 [main] Log4jdemo - Information Message
+[ERROR] 2021-07-07 18:43:44.453 [main] Log4jdemo - ErrorMessage
+[WARN ] 2021-07-07 18:43:44.454 [main] Log4jdemo - warnMessage
+[FATAL] 2021-07-07 18:43:44.454 [main] Log4jdemo - fatalMessage
+[TRACE] 2021-07-07 18:43:44.454 [main] Log4jdemo - Trace Message
+[INFO ] 2021-07-07 18:45:57.111 [main] Log4jdemo - Information Message
+[ERROR] 2021-07-07 18:45:57.122 [main] Log4jdemo - ErrorMessage
+[WARN ] 2021-07-07 18:45:57.122 [main] Log4jdemo - warnMessage
+[FATAL] 2021-07-07 18:45:57.122 [main] Log4jdemo - fatalMessage
+[TRACE] 2021-07-07 18:45:57.122 [main] Log4jdemo - Trace Message
+[INFO ] 2021-07-07 18:46:40.216 [main] Log4jdemo - Information Message
+[ERROR] 2021-07-07 18:46:40.228 [main] Log4jdemo - ErrorMessage
+[WARN ] 2021-07-07 18:46:40.228 [main] Log4jdemo - warnMessage
+[FATAL] 2021-07-07 18:46:40.228 [main] Log4jdemo - fatalMessage
+[TRACE] 2021-07-07 18:46:40.228 [main] Log4jdemo - Trace Message
+[INFO ] 2021-07-07 18:48:50.041 [main] Log4jdemo - Information Message
+[ERROR] 2021-07-07 18:48:50.052 [main] Log4jdemo - ErrorMessage
+[WARN ] 2021-07-07 18:48:50.052 [main] Log4jdemo - warnMessage
+[FATAL] 2021-07-07 18:48:50.053 [main] Log4jdemo - fatalMessage
+[TRACE] 2021-07-07 18:48:50.053 [main] Log4jdemo - Trace Message
+[INFO ] 2021-07-07 18:52:07.911 [main] Log4jdemo - Information Message
+[ERROR] 2021-07-07 18:52:07.923 [main] Log4jdemo - ErrorMessage
+[WARN ] 2021-07-07 18:52:07.923 [main] Log4jdemo - warnMessage
+[FATAL] 2021-07-07 18:52:07.923 [main] Log4jdemo - fatalMessage
+[TRACE] 2021-07-07 18:52:07.924 [main] Log4jdemo - Trace Message
